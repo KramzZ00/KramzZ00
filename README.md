@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<meta property="fb:pages" content="105292561595935" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
